@@ -15,3 +15,6 @@ Using a Jupyter notebook instead of the stock shell will make the code easier to
  
 This program is somewhat blind as it only cares about the products each user visited. It might achieve better results if it analyzed more aspects of user's shopping habits. Besides that, automating the process of choosing the parameters could also improve the results.
 
+# How to run the code
+
+First, unpack "target" and "data". Then, execute "main.py". When the program is over, you should see an "attempt" file inside your folder, which is the final guess csv file.
